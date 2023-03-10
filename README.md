@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, meu nome é Gabriel Estevão, desenvolvedor front-end em formação e atualmente cursando Engenharia de Software na PUC Minas.<br>
+ Olá, meu nome é Gabriel Estevão, desenvolvedor em formação e atualmente cursando Engenharia de Software na PUC Minas.<br>
 
 
 ## 🌐 Socials:
