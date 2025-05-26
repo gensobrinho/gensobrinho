@@ -1,5 +1,10 @@
-# 💫 Sobre:
-Olá, meu nome é Gabriel Estevão, desenvolvedor em formação e atualmente cursando Engenharia de Software na PUC Minas.
+<h1 align="center">Olá 👋, eu sou Gabriel Estevão</h1>
+<h3 align="center">Software Engineer | Front End & Full Stack | Web, Mobile & APIs</h3>
+
+- 🔭 Atualmente trabalho como **Desenvolvedor Full Stack na dti digital**
+- 🌱 Atualmente aprendendo sobre **NodeJS e NestJS**
+- 💬 Me pergunte sobre **React, React Native, Next.JS e boas práticas dos mesmos**
+- 📫 Como me encontrar: **gensobrinho@hotmail.com**
 
 
 ## 🌐 Socials:
