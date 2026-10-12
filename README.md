@@ -4,21 +4,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Developing+mobile+experiences+and+APIs;Focused+on+clean+code+and+software+architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvendo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis;Criando+solu%C3%A7%C3%B5es+Full+Stack+e+APIs;Foco+em+Clean+Code+e+arquitetura+de+software" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gabrielestevaons">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/gabrielestevaons" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gensobrinho@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.icons8.com/ios-filled/50/58A6FF/new-post.png" width="32" alt="E-mail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gensobrinho&style=flat-square&color=58A6FF&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
 </p>
-
----
 
 ## Sobre mim
 
